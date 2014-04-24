@@ -1,3 +1,3 @@
-JBehaveDemo
+Selenium API Examples
 ===========
-A basic JBehave/Selenium configuration and example scenario.
+Basic JBehave/Selenium examples using css selector, xpath selector, raio buttons, and dropdowns.
